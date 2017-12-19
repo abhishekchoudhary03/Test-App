@@ -2,7 +2,7 @@
 <record_update sys_domain="global" table="sys_app_module">
     <sys_app_module action="INSERT_OR_UPDATE">
         <active>true</active>
-        <application display_value="Test Table Menu">1edb1f267303030018eea18d4ef6a70c</application>
+        <application display_value="Test Table Menu1">1edb1f267303030018eea18d4ef6a70c</application>
         <assessment/>
         <content_page/>
         <device_type/>
